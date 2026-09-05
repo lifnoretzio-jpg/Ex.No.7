@@ -30,6 +30,9 @@ o Notify user of overlapping appointments or free time slots.
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
 
+[Experiment-7.docx](https://github.com/user-attachments/files/31860438/Experiment-7.docx)
+
+
 
 
 # Result: 
